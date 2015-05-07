@@ -1,0 +1,4 @@
+[console_scripts]
+blippcmd = scripts.blippcmd:main
+blippd = blipp.blippd:main
+
